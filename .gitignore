@@ -1,0 +1,7 @@
+# used by LSPs
+compile_commands.json
+.cache/
+
+# executables
+grep-clone
+*.exe
